@@ -1,0 +1,86 @@
+SARAH JOHNSON
+Senior Software Engineer
+
+CONTACT INFORMATION
+Email: sarah.johnson@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/sarahjohnson
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 7+ years of expertise in building scalable web applications using modern technologies. Proven track record in leading development teams, architecting microservices, and delivering high-quality software solutions. Passionate about clean code, agile methodologies, and continuous learning.
+
+TECHNICAL SKILLS
+• Programming Languages: Python (Expert), JavaScript (Advanced), TypeScript, Java, Go, SQL
+• Backend Frameworks: Django (Expert), Flask, Django REST Framework, Node.js, Express.js
+• Frontend Technologies: React (Advanced), Redux, HTML5, CSS3, SASS, Bootstrap
+• Databases: PostgreSQL (Advanced), MySQL, MongoDB, Redis, Elasticsearch
+• Cloud & DevOps: AWS (EC2, S3, RDS, Lambda, ECS), Docker, Kubernetes, Jenkins, GitLab CI
+• Tools & Technologies: Git, JIRA, Agile/Scrum, REST APIs, GraphQL, Microservices Architecture
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Solutions | March 2019 - Present
+• Led development of microservices architecture serving 500K+ daily active users
+• Architected and implemented scalable backend systems using Python, Django, and PostgreSQL
+• Built responsive frontend applications using React and modern JavaScript frameworks
+• Designed and optimized database schemas resulting in 40% performance improvement
+• Implemented CI/CD pipelines using Docker, Kubernetes, and AWS services
+• Mentored team of 5 junior developers and conducted code reviews
+• Collaborated with product managers and designers in Agile development environment
+• Reduced system downtime by 60% through improved monitoring and error handling
+
+Software Engineer | InnovateLab | June 2017 - February 2019
+• Developed full-stack web applications using Python, Django, and React
+• Integrated third-party APIs and payment processing systems (Stripe, PayPal)
+• Implemented automated testing suites achieving 90% code coverage
+• Optimized application performance resulting in 50% faster load times
+• Worked closely with UX/UI designers to implement pixel-perfect designs
+• Participated in daily standups, sprint planning, and retrospectives
+
+Junior Software Developer | StartupXYZ | August 2016 - May 2017
+• Built web applications using Python, Flask, and JavaScript
+• Worked with MySQL databases and implemented basic CRUD operations
+• Assisted senior developers with bug fixes and feature implementations
+• Learned agile development practices and version control with Git
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University | September 2014 - June 2016
+• Relevant Coursework: Algorithms, Data Structures, Database Systems, Software Engineering
+• GPA: 3.8/4.0
+
+Bachelor of Science in Software Engineering
+University of California, Berkeley | September 2010 - May 2014
+• Magna Cum Laude, GPA: 3.7/4.0
+• Relevant Coursework: Object-Oriented Programming, Web Development, Computer Networks
+
+PROJECTS
+
+E-Commerce Platform (2023)
+• Built scalable e-commerce platform using Django, React, and PostgreSQL
+• Implemented microservices architecture with Docker and Kubernetes
+• Integrated payment processing, inventory management, and order tracking
+• Deployed on AWS with auto-scaling and load balancing
+
+Task Management System (2022)
+• Developed collaborative task management application using MERN stack
+• Implemented real-time updates using WebSockets and Redis
+• Built RESTful APIs with comprehensive documentation
+• Achieved 99.9% uptime with proper error handling and monitoring
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2023)
+• Certified Scrum Master (CSM) (2022)
+• Python Institute Certified Python Developer (2021)
+
+ACHIEVEMENTS
+• Led team that won "Best Innovation Award" at TechCorp Hackathon 2023
+• Reduced application load time by 65% through performance optimization
+• Successfully migrated legacy monolith to microservices architecture
+• Mentored 10+ junior developers throughout career
+
+LANGUAGES
+• English (Native)
+• Spanish (Conversational)
+• Mandarin (Basic)

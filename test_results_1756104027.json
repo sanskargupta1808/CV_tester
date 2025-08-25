@@ -1,0 +1,49 @@
+{
+  "timestamp": 1756104027.623234,
+  "total_tests": 7,
+  "passed_tests": 7,
+  "test_details": [
+    {
+      "test": "Health Endpoint",
+      "success": true,
+      "details": "Status: healthy, Model: True",
+      "timestamp": 1756104027.612182
+    },
+    {
+      "test": "Score Endpoint",
+      "success": true,
+      "details": "Score: 73.4/100, Category: Good Match, Time: 0.1ms",
+      "timestamp": 1756104027.613601
+    },
+    {
+      "test": "File Upload",
+      "success": true,
+      "details": "Score: 75.0/100, File: test_resume.txt",
+      "timestamp": 1756104027.615453
+    },
+    {
+      "test": "Web Interface",
+      "success": true,
+      "details": "UI checks: 4/4 passed",
+      "timestamp": 1756104027.6165152
+    },
+    {
+      "test": "API Documentation",
+      "success": true,
+      "details": "Swagger docs accessible",
+      "timestamp": 1756104027.6174011
+    },
+    {
+      "test": "Error Handling",
+      "success": true,
+      "details": "Properly handles invalid input",
+      "timestamp": 1756104027.6183271
+    },
+    {
+      "test": "Performance Test",
+      "success": true,
+      "details": "Avg: 0.00s, Max: 0.00s",
+      "timestamp": 1756104027.623202
+    }
+  ]
+}

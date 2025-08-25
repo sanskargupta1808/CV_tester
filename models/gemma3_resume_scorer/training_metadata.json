@@ -1,0 +1,23 @@
+{
+  "model_name": "google/gemma-2-2b-it",
+  "training_date": "2025-08-25T11:48:27.488045",
+  "training_type": "LoRA fine-tuning (simulated)",
+  "dataset_size": {
+    "train": 4,
+    "validation": 1,
+    "test": 1
+  },
+  "training_config": {
+    "epochs": 3,
+    "learning_rate": 0.0002,
+    "batch_size": 2,
+    "lora_r": 16,
+    "lora_alpha": 32
+  },
+  "performance_metrics": {
+    "final_loss": 1.85,
+    "convergence": "achieved",
+    "training_time": "45 minutes (simulated)"
+  },
+  "status": "completed_mock_training"
+}

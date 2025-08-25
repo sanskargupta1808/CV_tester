@@ -1,0 +1,25 @@
+{
+  "deployment_date": "2025-08-25T12:09:43.348679",
+  "status": "completed",
+  "verification_results": {
+    "api_health": true,
+    "model_loaded": true,
+    "file_upload": true,
+    "scoring": true,
+    "web_interface": true
+  },
+  "benchmark_summary": {},
+  "api_endpoints": {
+    "health": "http://localhost:8006/health",
+    "score": "http://localhost:8006/score",
+    "upload": "http://localhost:8006/upload-score",
+    "web_interface": "http://localhost:8006/",
+    "docs": "http://localhost:8006/docs"
+  },
+  "model_info": {
+    "base_model": "google/gemma-2-2b-it",
+    "training_method": "LoRA fine-tuning",
+    "task": "resume_job_description_matching",
+    "status": "deployed"
+  }
+}

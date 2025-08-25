@@ -1,0 +1,9 @@
+{
+  "tokenizer_class": "GemmaTokenizer",
+  "vocab_size": 256000,
+  "model_max_length": 8192,
+  "pad_token": "<pad>",
+  "eos_token": "</s>",
+  "bos_token": "<bos>",
+  "unk_token": "<unk>"
+}

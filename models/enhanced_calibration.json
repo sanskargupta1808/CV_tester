@@ -1,0 +1,28 @@
+{
+  "calibration_params": {
+    "method": "enhanced",
+    "raw_min": 15,
+    "raw_max": 55,
+    "target_min": 0,
+    "target_max": 100,
+    "percentile_mapping": {
+      "raw_percentiles": [15, 20, 25, 30, 35, 40, 45, 50, 55],
+      "true_percentiles": [0, 10, 25, 40, 55, 70, 80, 90, 100]
+    }
+  },
+  "linear_params": {
+    "coef": 2.5,
+    "intercept": -62.5
+  },
+  "minmax_params": {
+    "data_min_": 15.0,
+    "data_max_": 55.0,
+    "data_range_": 40.0
+  },
+  "isotonic_params": {
+    "X_thresholds_": [15, 20, 25, 30, 35, 40, 45, 50, 55],
+    "y_thresholds_": [0, 15, 30, 45, 60, 75, 85, 92, 100]
+  },
+  "version": "6.0.0",
+  "description": "Enhanced calibration parameters for 0-100 score range with improved discrimination"
+}

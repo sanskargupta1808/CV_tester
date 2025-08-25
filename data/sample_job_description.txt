@@ -1,0 +1,79 @@
+Senior Full-Stack Developer
+TechCorp Solutions - Seattle, WA
+
+ABOUT THE ROLE
+We are seeking an experienced Senior Full-Stack Developer to join our growing engineering team. You will be responsible for designing, developing, and maintaining scalable web applications that serve millions of users worldwide. This is an excellent opportunity to work with cutting-edge technologies and make a significant impact on our product development.
+
+RESPONSIBILITIES
+• Design and develop scalable web applications using modern technologies
+• Build robust backend systems and APIs using Python and Django framework
+• Create responsive and intuitive frontend interfaces using React and modern JavaScript
+• Work with PostgreSQL databases to design efficient schemas and optimize queries
+• Deploy and manage applications on AWS cloud infrastructure
+• Collaborate with cross-functional teams including product managers, designers, and QA engineers
+• Participate in code reviews and maintain high code quality standards
+• Mentor junior developers and contribute to team knowledge sharing
+• Implement and maintain CI/CD pipelines for automated testing and deployment
+• Troubleshoot and resolve production issues in a timely manner
+
+REQUIRED QUALIFICATIONS
+• Bachelor's degree in Computer Science, Software Engineering, or related field
+• 5+ years of professional software development experience
+• Strong proficiency in Python programming language
+• Extensive experience with Django framework and Django REST Framework
+• Advanced knowledge of React and modern JavaScript (ES6+, TypeScript preferred)
+• Experience with PostgreSQL database design, optimization, and management
+• Hands-on experience with AWS cloud services (EC2, S3, RDS, Lambda)
+• Proficiency with version control systems (Git) and collaborative development workflows
+• Experience with containerization technologies (Docker) and orchestration (Kubernetes)
+• Knowledge of CI/CD practices and tools (Jenkins, GitLab CI, or similar)
+• Strong understanding of RESTful API design and implementation
+• Experience with Agile/Scrum development methodologies
+
+PREFERRED QUALIFICATIONS
+• Master's degree in Computer Science or related field
+• Experience with microservices architecture and distributed systems
+• Knowledge of additional programming languages (Java, Go, or Node.js)
+• Experience with NoSQL databases (MongoDB, Redis, Elasticsearch)
+• Familiarity with frontend build tools and modern development workflows
+• Experience with monitoring and logging tools (Prometheus, Grafana, ELK stack)
+• Knowledge of security best practices for web applications
+• Experience with automated testing frameworks and test-driven development
+• Previous experience in a leadership or mentoring role
+• Contributions to open-source projects
+
+TECHNICAL SKILLS
+• Programming Languages: Python (required), JavaScript/TypeScript (required), SQL
+• Backend: Django, Django REST Framework, Flask, Node.js
+• Frontend: React, Redux, HTML5, CSS3, SASS
+• Databases: PostgreSQL (required), MySQL, MongoDB, Redis
+• Cloud: AWS (EC2, S3, RDS, Lambda, ECS), Docker, Kubernetes
+• Tools: Git, Jenkins, JIRA, Agile methodologies
+
+WHAT WE OFFER
+• Competitive salary range: $120,000 - $160,000 based on experience
+• Comprehensive health, dental, and vision insurance
+• 401(k) retirement plan with company matching
+• Flexible work arrangements and remote work options
+• Professional development budget for conferences and training
+• Stock options and equity participation
+• Generous paid time off and parental leave policies
+• Modern office environment with latest technology and tools
+• Collaborative and inclusive company culture
+• Opportunities for career growth and advancement
+
+COMPANY CULTURE
+At TechCorp Solutions, we believe in fostering an inclusive and collaborative environment where every team member can thrive. We value innovation, continuous learning, and work-life balance. Our engineering team follows agile practices and encourages experimentation with new technologies and approaches.
+
+APPLICATION PROCESS
+Please submit your resume along with a cover letter highlighting your relevant experience and why you're interested in this role. Include links to your GitHub profile, portfolio, or any relevant projects that demonstrate your skills.
+
+We are an equal opportunity employer committed to diversity and inclusion. We welcome applications from candidates of all backgrounds and experiences.
+
+LOCATION & WORK ARRANGEMENT
+This position is based in our Seattle, WA office with hybrid work options available. We offer flexible scheduling and support both in-office collaboration and remote work as needed.
+
+NEXT STEPS
+Qualified candidates will be contacted within 1-2 weeks for an initial phone screening, followed by technical interviews and a final interview with the engineering leadership team. The entire process typically takes 2-3 weeks from application to offer.
+
+Join us in building the next generation of innovative software solutions!

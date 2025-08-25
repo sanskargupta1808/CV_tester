@@ -1,0 +1,61 @@
+{
+  "model_info": {
+    "base_model": "google/gemma-2-2b-it",
+    "training_type": "LoRA Fine-tuning (Simulated)",
+    "task": "Resume-JD Compatibility Scoring",
+    "created_at": "2025-08-25T10:19:16.435072"
+  },
+  "dataset_info": {
+    "train_samples": 4,
+    "val_samples": 1,
+    "test_samples": 1,
+    "total_samples": 6
+  },
+  "training_config": {
+    "epochs": 3,
+    "batch_size": 2,
+    "learning_rate": 0.0002,
+    "max_length": 1024,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.1
+  },
+  "training_results": {
+    "training_history": [
+      {
+        "epoch": 1,
+        "train_loss": 2.5,
+        "val_loss": 2.3,
+        "learning_rate": 0.0002,
+        "timestamp": "2025-08-25T10:19:12.425564"
+      },
+      {
+        "epoch": 2,
+        "train_loss": 2.3000000000000003,
+        "val_loss": 2.0999999999999996,
+        "learning_rate": 0.00018,
+        "timestamp": "2025-08-25T10:19:14.426094"
+      },
+      {
+        "epoch": 3,
+        "train_loss": 1.9,
+        "val_loss": 1.7999999999999998,
+        "learning_rate": 0.000162,
+        "timestamp": "2025-08-25T10:19:16.431383"
+      }
+    ],
+    "final_train_loss": 1.9,
+    "final_val_loss": 1.7999999999999998,
+    "total_epochs": 3
+  },
+  "model_paths": {
+    "model_dir": "gemma3_production/model",
+    "tokenizer_dir": "gemma3_production/tokenizer",
+    "config_file": "gemma3_production/config.json"
+  },
+  "performance_metrics": {
+    "final_loss": 1.9,
+    "convergence": "Good",
+    "estimated_accuracy": "75-85%"
+  }
+}

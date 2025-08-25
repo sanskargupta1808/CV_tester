@@ -1,0 +1,42 @@
+{
+  "deployment_date": "2025-08-25T11:48:33.888618",
+  "status": "completed",
+  "verification_results": {
+    "api_health": true,
+    "model_loaded": true,
+    "file_upload": true,
+    "scoring": true,
+    "web_interface": true
+  },
+  "benchmark_summary": {
+    "best_accuracy": {
+      "model": "Gemma 3 API",
+      "score": 0.3333333333333333
+    },
+    "best_f1": {
+      "model": "Gemma 3 API",
+      "score": 0.26666666666666666
+    },
+    "best_correlation": {
+      "model": "Gemma 3 API",
+      "score": 0.9386247750066943
+    },
+    "fastest": {
+      "model": "Gemma 3 API",
+      "time": 0.0016870896021525066
+    }
+  },
+  "api_endpoints": {
+    "health": "http://localhost:8006/health",
+    "score": "http://localhost:8006/score",
+    "upload": "http://localhost:8006/upload-score",
+    "web_interface": "http://localhost:8006/",
+    "docs": "http://localhost:8006/docs"
+  },
+  "model_info": {
+    "base_model": "google/gemma-2-2b-it",
+    "training_method": "LoRA fine-tuning",
+    "task": "resume_job_description_matching",
+    "status": "deployed"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model_type": "gemma",
+  "base_model": "google/gemma-2-2b-it",
+  "fine_tuned_for": "resume_job_description_matching",
+  "training_method": "LoRA",
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj"
+  ],
+  "task": "text_generation_scoring"
+}
